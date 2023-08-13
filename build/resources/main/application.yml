@@ -1,0 +1,4 @@
+logging.level:
+  com.exxamle.demo: DEBUG
+server:
+  port: 3000

@@ -1,0 +1,5 @@
+logging.level:
+  com.exxamle.demo: DEBUG
+server:
+  port: 3000
+# /Users/sugawaramakotohiromu/Library/Application Support/ngrok/ngrok.yml
